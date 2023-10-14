@@ -103,3 +103,6 @@ android/configs/android-*.cfg
 # build
 out/
 *.zip
+
+# KSU
+drivers/kernelsu
